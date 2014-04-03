@@ -1,0 +1,38 @@
+body {
+	background-color: #f8f8f8;
+}
+body,td,th {
+	color: #000;
+}
+a:link {
+	color: #FFFF66;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #FFFF66;
+}
+a:hover {
+	text-decoration: none;
+	color: #fc3019;
+}
+a:active {
+	text-decoration: underline;
+}
+div.boxLogin2 {
+	text-align:center;
+}
+div.boxLogin2 h5 {
+	color:#fff; 
+	font-weight:normal; 
+	font-size:16px; 
+	display:block; 
+	background:#ff6c00;
+}
+div.boxLogin2 a {
+	border-radius:5px; 
+	background:#fc3019; 
+	color:#FFF; 
+	padding:5px 10px; 
+	text-decoration:none;
+}
